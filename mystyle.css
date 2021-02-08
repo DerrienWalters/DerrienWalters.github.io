@@ -10,6 +10,7 @@ h1 {color: rgb(0, 232, 15);
         }
 .set2 {text-align: center;
        width: 800px; 
-       padding-left: 340px;
+       margin-left: auto;
+        margin-right: auto;
 }
         
